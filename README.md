@@ -227,14 +227,14 @@ You can use the following steps to guide the discussion.  To help solidify this 
 
 Gather requirements and scope the problem.  Ask questions to clarify use cases and constraints.  Discuss assumptions.
 
-* Who is going to use it?
-* How are they going to use it?
-* How many users are there?
-* What does the system do?
-* What are the inputs and outputs of the system?
-* How much data do we expect to handle?
-* How many requests per second do we expect?
-* What is the expected read to write ratio?
+* **Who** is going to use it?
+* **How** are they going to use it?
+* How many users are there?**User#**
+* What does the system do?**function**
+* What are the inputs and outputs of the system?**in/out**
+* How much data do we expect to handle?**data#**
+* How many requests per second do we expect?**req/s**
+* What is the expected read to write ratio?**r/w**
 
 ### Step 2: Create a high level design
 
